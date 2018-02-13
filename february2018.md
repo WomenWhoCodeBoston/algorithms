@@ -1,4 +1,7 @@
-# February 13 2018 Algorithms Meetup
+# February 13 2018 Algorithms Meetup!
 
+### [TR (translate/transliterate)](https://github.com/WomenWhoCodeNYC/Algorithms/blob/master/challenges/tr/tr.md)
+### [The Sieve of Eratosthenes](https://github.com/WomenWhoCodeNYC/Algorithms/blob/master/challenges/sieveOfEratosthenes/sieveOfEratosthenes.md)
 ### [Anagram Detection](https://github.com/WomenWhoCodeNYC/Algorithms/blob/master/challenges/anagramDetection/anagramDetection.md)
 ### [SumPairs](https://github.com/WomenWhoCodeNYC/Algorithms/blob/master/challenges/sumPairs/sumPairs.md)
+
