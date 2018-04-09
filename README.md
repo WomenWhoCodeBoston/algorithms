@@ -2,7 +2,16 @@
 
 This repository contains resources related to the monthly algorithms meetup. Here you can find all of the problems and (ongoing) solutions for Algorithms events.
 
-# Learning to code? Resources to get started!
+## Get a head start with whiteboarding problems
+Contribute your favorite problems to this repo!
+- [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
+- [CodeWars](http://www.codewars.com/)
+- [Project Euler](https://projecteuler.net/)
+- [Coderbyte](http://coderbyte.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode OJ](https://leetcode.com/)
+
+## Learning to code? Resources to get started!
 - [Codecademy](http://codecademy.com)
 - [Codeschool](http://codeschool.com)
 - [FreeCodeCamp](http://www.freecodecamp.com/)
