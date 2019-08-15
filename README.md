@@ -1,6 +1,6 @@
 # WomenWhoCode Boston Algorithms
 
-## [August 2019 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/August2019.md)
+## [October event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/October2018.md)
 
 This repository contains resources related to the monthly algorithms meetup. Here you can find all of the problems and (ongoing) solutions for Algorithms events.
 
