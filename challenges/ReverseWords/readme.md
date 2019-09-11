@@ -8,6 +8,6 @@
     * If the complexity is described in terms of *n*, your explanation must share what *n* stands for.
 
 **Notes**:
-    * Do not use language provided functionality for `.reverse` and `.reverse!`.
-    * You may use `.length` method provided in the language's standard libraries.
-    * If you choose to code in a language in which Strings are not mutable, return a new string with each word in the input string reversed.
+* Do not use language provided functionality for `.reverse` and `.reverse!`.
+* You may use `.length` method provided in the language's standard libraries.
+* If you choose to code in a language in which Strings are not mutable, return a new string with each word in the input string reversed.
