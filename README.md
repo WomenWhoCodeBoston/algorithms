@@ -2,7 +2,7 @@
 
 The [Algorithms & Interview Prep introduction slide deck](https://docs.google.com/presentation/d/10cpdukUw5i4Keeoptkcs6loTWFG5vGY-1baweEeDZgs/edit?usp=sharing)
 
-## [August 2019 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/August2019.md)
+## [September 2019 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/September2019.md)
 
 This repository contains resources related to the monthly algorithms meetup. Here you can find all of the problems and (ongoing) solutions for Algorithms events.
 
