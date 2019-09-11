@@ -8,6 +8,8 @@
 * Share and explain the time and space complexities for your solution in the comments above the method.
     * If the complexity is shared in terms of *n*, your explanation must explain what *n* stands for.
 
-<b>Notes</b>:
-    * Do not use language provided built-in supported methods like `.reverse` and `.reverse!`. Build your own.
-    * You may use `.length` method available in most language's String class.
+**Notes**:
+* Do not use language provided functionality for `.reverse` and `.reverse!`.
+* You may use `.length` method provided in the language's standard libraries.
+* If you choose to code in a language in which Strings are not mutable, return a new string with each word in the input string reversed.
+
