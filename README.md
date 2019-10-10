@@ -2,7 +2,7 @@
 The [Algorithms & Interview Prep introduction slide deck](https://docs.google.com/presentation/d/10cpdukUw5i4Keeoptkcs6loTWFG5vGY-1baweEeDZgs/edit?usp=sharing)
 
 On September 12th, 2019, we'll be meeting at Path AI to revise concepts around computer memory and solve string manipulation problems. Join us!
-## [September 2019 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/September2019.md)
+## [October 2019 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/October2019.md)
 
 Don't wait for the next meet up! Join the Conversation at slack.wwcboston.org
 
