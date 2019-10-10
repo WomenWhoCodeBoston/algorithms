@@ -2,7 +2,7 @@
 Theme: **Linked Lists**
 
 ## Slides on "Linked List - quick revision"
-From the event, here's the [slide deck on a quick revision of linked list data structure - TBD]()
+From the event, here's the [slide deck on a quick revision of linked list data structure](https://drive.google.com/file/d/1bEGgxFTixxhuEIvqfNrdpqxKhNGctKL-/view?usp=sharing)
 
 ## Interview knowledge questions
 These questions seek to judge your understanding of CS Fundamentals and of the primary programming language of your choice.
