@@ -1,8 +1,8 @@
 # WomenWhoCode Boston Algorithms
 The [Algorithms & Interview Prep introduction slide deck](https://docs.google.com/presentation/d/10cpdukUw5i4Keeoptkcs6loTWFG5vGY-1baweEeDZgs/edit?usp=sharing)
 
-On October 10th, 2019, we'll be meeting at PathAI and discuss Linked Lists. Join us!
-## [October 2019 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/October2019.md)
+On February 2020, we'll be meeting at PathAI and discuss Linked Lists. Join us!
+## [February 2020 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/February-2020.md)
 
 Don't wait for the next meet up! Join the Conversation at slack.wwcboston.org
 
