@@ -5,4 +5,10 @@
 * You have access only to the pointer/reference to the node to be deleted. 
 * The method does not return anything
 
-This problem is referenced from: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/
+## Solution
+https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/DeleteNodeInLinkedList/solution
+
+### Contribute
+Add your own interview questions, or solutions to existing problem: https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges
+
+The above problem is borrowed from: https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/
