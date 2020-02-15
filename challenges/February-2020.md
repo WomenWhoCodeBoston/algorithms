@@ -17,12 +17,12 @@ Explain the following:
 
 ## Interview coding problems:
 Given a singly linked list
-- Delete a node in the linked list (except if it is the tail). Return the head to the modified linked list.
-- Delete nth node from the end of a linked list. Return the head to the modified linked list
-- Reverse the linked list. Return the head to the modified linked list.
-- Merge two sorted lists. Return the head to the linked list.
-- Check if the linked list has values that form a palindrome. Return true if it does, no if it doesn't.
-- Detect if the linked list has a cycle. Return true if it does, no if it doesn't.
+- [Delete a node in the linked list (except if it is the tail). Return the head to the modified linked list.](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/DeleteNodeInLinkedList)
+- [Delete nth node from the end of a linked list. Return the head to the modified linked list](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/RemoveNthFromEnd)
+- [Reverse the linked list. Return the head to the modified linked list.](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/ReverseLinkedList)
+- [Merge two sorted lists. Return the head to the linked list.](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/MergeSortedList)
+- [Check if the linked list has values that form a palindrome. Return true if it does, no if it doesn't.](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/PalindromeLinkedList)
+- [Detect if the linked list has a cycle. Return true if it does, no if it doesn't.](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/DetectCycle)
 
 Given a singly linked list with integer values constrained to 1, 2 and 3. 
 - Sort the linked list so that all the nodes with value 1 come before the nodes with the value 2 and all nodes with the value 3 are in the end of the linked list. Return the head of the modified linked list.
