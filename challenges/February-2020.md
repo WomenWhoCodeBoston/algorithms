@@ -24,12 +24,14 @@ Given a singly linked list
 - [Check if the linked list has values that form a palindrome. Return true if it does, no if it doesn't.](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/PalindromeLinkedList)
 - [Detect if the linked list has a cycle. Return true if it does, no if it doesn't.](https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/DetectCycle)
 
-Given a singly linked list with integer values constrained to 1, 2 and 3. 
-- Sort the linked list so that all the nodes with value 1 come before the nodes with the value 2 and all nodes with the value 3 are in the end of the linked list. Return the head of the modified linked list.
+Given a singly linked list with integer values constrained to 1, 2 and 3. Sort the linked list so that all the nodes with value 1 come before the nodes with the value 2 and all nodes with the value 3 are in the end of the linked list. Return the head of the modified linked list.
 
 Given a singly linked list, detect if the linked list has a cycle and return the node at which the cycle begins. If there is no cycle, return null.
 
-[To be added]
+Given a singly linked list, reverse every k set of nodes in the list. e.g. if the linked list was: 
+(head)1 -> 4 -> 2 -> 3 -> 6 -> 9 -> 0 -> 5(tail) -> null
+and k= 3, then the linked list should get modified to:
+(head)2 -> 4 -> 1 -> 9 -> 6 -> 3 -> 5 -> 0(tail) -> null
 
 ## Additional Resources:
 - [Linked List by Vaidehi Joshi](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
