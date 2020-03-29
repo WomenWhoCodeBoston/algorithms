@@ -1,4 +1,4 @@
-# Reverse a singly linked list
+# Search in a Binary Search Tree
 
 ## Exercise
 * Given a Binary Seach Tree's root node and a given value, return the node in the binary search tree which contains the same value as the given value. Return `null` if the given value is not found in the BST.
