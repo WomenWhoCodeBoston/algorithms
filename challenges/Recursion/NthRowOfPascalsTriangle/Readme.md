@@ -14,7 +14,7 @@
 ```
 
 ## Solution
-https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/NthPowOfPascalsTriangle/solution
+https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/Recursion/NthRowOfPascalsTriangle/solution
 
 ### Contribute
 Add your own interview questions, or solutions to existing problem: https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges
