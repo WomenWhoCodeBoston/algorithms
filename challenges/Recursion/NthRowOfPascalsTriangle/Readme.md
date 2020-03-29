@@ -2,8 +2,8 @@
 
 ## Exercise
 * Given a non-negative index k where k ≤ 33, return the kth index row of the Pascal's triangle.
-* Note that the row index starts from 0.
-* Pascal's triangle
+* Note that the row index starts from 0. e.g. k = 2 should return `[1, 2, 1]`
+* Pascal's triangle:
 ```
       1
      1 1
