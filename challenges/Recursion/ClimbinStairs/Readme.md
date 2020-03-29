@@ -1,4 +1,4 @@
-# climbining stairs - distinct way
+# climbing stairs - distinct way
 
 ## Exercise
 * You are climbing a stair case. It takes n steps to reach to the top.
