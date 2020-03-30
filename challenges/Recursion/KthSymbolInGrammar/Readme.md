@@ -6,6 +6,13 @@
 * Given row N and index K, return the K-th indexed symbol in row N. (The values of K are 1-indexed.) (1 indexed).
 * Note: N will be an integer in the range [1, 30].
 * Note: K will be an integer in the range [1, 2^(N-1)].
+```
+row 1: 0
+row 2: 01
+row 3: 0110
+row 4: 01101001
+```
+* e.g. N=4, K=5 should return 1
 
 ## Solution
 https://github.com/WomenWhoCodeBoston/algorithms/tree/master/challenges/Recursion/KthSymbolInGrammar/solution
