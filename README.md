@@ -1,10 +1,9 @@
 # WomenWhoCode Boston Algorithms
 The [Algorithms & Interview Prep introduction slide deck](https://docs.google.com/presentation/d/10cpdukUw5i4Keeoptkcs6loTWFG5vGY-1baweEeDZgs/edit?usp=sharing)
 
-On February 2020, we'll be meeting at PathAI and discuss Linked Lists. Join us!
-## [February 2020 event problems this way](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/February-2020.md)
+On April 2nd, 2020, we'll be meeting in an online event and talking about [Recursion](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/Recursion/Readme.md)
 
-Don't wait for the next meet up! Join the Conversation at slack.wwcboston.org
+Don't wait for the next meet up! Join the Conversation at bit.ly/wwcode-boston-slack
 
 This repository contains resources related to the monthly algorithms meetup. Here you can find all of the problems and (ongoing) solutions for Algorithms events.
 
@@ -12,12 +11,14 @@ This repository contains resources related to the monthly algorithms meetup. Her
 Head to algorithms/challenges and `create new file` using .md
 
 ## Get a head start with whiteboarding problems
+- [Mock interview practice on Pramp](https://www.pramp.com/#/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
 - [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
 - [CodeWars](http://www.codewars.com/)
 - [Project Euler](https://projecteuler.net/)
 - [Coderbyte](http://coderbyte.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [LeetCode OJ](https://leetcode.com/)
+
 
 ## Learning to code? Resources to get started!
 - [Codecademy](http://codecademy.com)
