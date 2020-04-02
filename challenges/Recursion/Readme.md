@@ -1,4 +1,4 @@
-A lot of the problems that can be solved recursively can also be solved iteratively.
+A lot of the problems that can be solved recursively can also be solved iteratively. Here's the slide deck we used on April 2nd, 2020 to revise some basics building up to Recursion: [Recursion Revision](https://docs.google.com/presentation/d/1QxR9pX8UZpJQTiKsfwJxNwFSQ653mqfkZxgWuMkiA1o/edit?usp=sharing)
 
 If you're still new to recursion, we recommend these links from GeeksForGeeks.org to internalize the working of recursive methods before designing methods:
 * [Set 1: Practice question for Recursion](http://www.geeksforgeeks.org/practice-questions-for-recursion/)
