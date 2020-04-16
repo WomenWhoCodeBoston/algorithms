@@ -1,7 +1,7 @@
 # WomenWhoCode Boston Algorithms
-The [Algorithms & Interview Prep introduction slide deck](https://docs.google.com/presentation/d/10cpdukUw5i4Keeoptkcs6loTWFG5vGY-1baweEeDZgs/edit?usp=sharing)
+On April 16th, 2020, we'll be meeting for [online event](https://www.meetup.com/Women-Who-Code-Boston/events/269823017/) and discuss [Recursion](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/Recursion/Readme.md)
 
-On April 2nd, 2020, we'll be meeting in an online event and talking about [Recursion](https://github.com/WomenWhoCodeBoston/algorithms/blob/master/challenges/Recursion/Readme.md)
+The [Algorithms & Interview Prep introduction slide deck](https://docs.google.com/presentation/d/10cpdukUw5i4Keeoptkcs6loTWFG5vGY-1baweEeDZgs/edit?usp=sharing)
 
 Don't wait for the next meet up! Join the Conversation at bit.ly/wwcode-boston-slack
 
